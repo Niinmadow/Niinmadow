@@ -11,9 +11,9 @@
 ---
 
 ## 🚀 About Me
-I am an aspiring DevOps engineer with a background in sales, customer service, and data analysis. Currently studying **Statistics & Data Analysis** at Linköping University, I enjoy working with cloud technologies, automation, and data-driven decision-making.
+I am an aspiring DevOps engineer with a background in sales, customer service, and data analysis. I studied **Statistics & Data Analysis** at Linköping University, I enjoy working with cloud technologies, automation, and data-driven decision-making.
 
-My previous roles in real estate consulting, B2B sales, and customer support helped me develop strong analytical thinking, communication, and problem-solving skills—abilities I now apply toward DevOps, cloud tooling, and scripting.
+My previous roles in real estate consulting, B2B sales, and customer support helped me develop strong analytical thinking, communication, and problem-solving skills abilities I now apply toward DevOps, cloud tooling, and scripting.
 
 ---
 
@@ -29,8 +29,6 @@ My previous roles in real estate consulting, B2B sales, and customer support hel
 ### Programming
 - Python  
 - C++  
-- JavaScript  
-- HTML/CSS  
 
 ### Other Tools & Experience
 - CRM Systems  
